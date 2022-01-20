@@ -1,4 +1,6 @@
 r1 test anil enteed :wq!
  
 
+nil entered another line  ni
 
+anil entered 2nd line 
